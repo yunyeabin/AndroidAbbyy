@@ -1,0 +1,4 @@
+#Sun Aug 19 14:50:13 KST 2018
+base.0=/Users/YeBinYun/Desktop/ocrsdk/Android/Android1/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

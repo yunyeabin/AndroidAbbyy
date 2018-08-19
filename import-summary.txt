@@ -1,0 +1,103 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* Android1/
+* Android1/.idea/
+* Android1/.idea/.name
+* Android1/.idea/workspace.xml
+* Android1/app/
+* Android1/app/build.gradle
+* Android1/app/src/
+* Android1/app/src/main/
+* Android1/app/src/main/AndroidManifest.xml
+* Android1/app/src/main/java/
+* Android1/app/src/main/java/abbyy/
+* Android1/app/src/main/java/abbyy/ocrsdk/
+* Android1/app/src/main/java/abbyy/ocrsdk/android/
+* Android1/app/src/main/java/abbyy/ocrsdk/android/AsyncProcessTask.java
+* Android1/app/src/main/java/abbyy/ocrsdk/android/MainActivity.java
+* Android1/app/src/main/java/abbyy/ocrsdk/android/ResultsActivity.java
+* Android1/app/src/main/java/com/
+* Android1/app/src/main/java/com/abbyy/
+* Android1/app/src/main/java/com/abbyy/ocrsdk/
+* Android1/app/src/main/java/com/abbyy/ocrsdk/BarcodeSettings.java
+* Android1/app/src/main/java/com/abbyy/ocrsdk/Base64.java
+* Android1/app/src/main/java/com/abbyy/ocrsdk/BusCardSettings.java
+* Android1/app/src/main/java/com/abbyy/ocrsdk/Client.java
+* Android1/app/src/main/java/com/abbyy/ocrsdk/ProcessingSettings.java
+* Android1/app/src/main/java/com/abbyy/ocrsdk/ReceiptSettings.java
+* Android1/app/src/main/java/com/abbyy/ocrsdk/Task.java
+* Android1/app/src/main/java/com/abbyy/ocrsdk/TextFieldSettings.java
+* Android1/app/src/main/res/
+* Android1/app/src/main/res/.DS_Store
+* Android1/app/src/main/res/drawable-hdpi/
+* Android1/app/src/main/res/drawable-hdpi/ic_launcher.png
+* Android1/app/src/main/res/drawable-ldpi/
+* Android1/app/src/main/res/drawable-ldpi/ic_launcher.png
+* Android1/app/src/main/res/drawable-mdpi/
+* Android1/app/src/main/res/drawable-mdpi/ic_launcher.png
+* Android1/app/src/main/res/layout/
+* Android1/app/src/main/res/layout/activity_main.xml
+* Android1/app/src/main/res/layout/activity_results.xml
+* Android1/app/src/main/res/menu/
+* Android1/app/src/main/res/menu/activity_main.xml
+* Android1/app/src/main/res/menu/activity_results.xml
+* Android1/app/src/main/res/values/
+* Android1/app/src/main/res/values/strings.xml
+* Android1/app/src/main/resources/
+* Android1/app/src/main/resources/.DS_Store
+* Android1/app/src/main/resources/abbyy/
+* Android1/app/src/main/resources/abbyy/.DS_Store
+* Android1/app/src/main/resources/abbyy/ocrsdk/
+* Android1/app/src/main/resources/abbyy/ocrsdk/.DS_Store
+* Android1/app/src/main/resources/com/
+* Android1/app/src/main/resources/com/.DS_Store
+* Android1/app/src/main/resources/com/abbyy/
+* Android1/app/src/main/resources/com/abbyy/.DS_Store
+* Android1/build.gradle
+* Android1/gradle/
+* Android1/gradle/wrapper/
+* Android1/gradle/wrapper/gradle-wrapper.jar
+* Android1/gradle/wrapper/gradle-wrapper.properties
+* Android1/gradlew
+* Android1/gradlew.bat
+* Android1/local.properties
+* Android1/settings.gradle
+* README
+* proguard.cfg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* src/.DS_Store => app/src/main/resources/.DS_Store
+* src/abbyy/.DS_Store => app/src/main/resources/abbyy/.DS_Store
+* src/abbyy/ocrsdk/.DS_Store => app/src/main/resources/abbyy/ocrsdk/.DS_Store
+* src/com/.DS_Store => app/src/main/resources/com/.DS_Store
+* src/com/abbyy/.DS_Store => app/src/main/resources/com/abbyy/.DS_Store
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

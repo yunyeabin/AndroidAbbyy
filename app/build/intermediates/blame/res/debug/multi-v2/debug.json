@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/YeBinYun/Desktop/ocrsdk/Android/Android1/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/YeBinYun/Desktop/ocrsdk/Android/Android1/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,5,6,8,3,4,7",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,233,284,390,105,156,331",
+                        "endColumns": "49,50,46,39,50,76,58",
+                        "endOffsets": "100,279,326,425,151,228,385"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,156,203,243,294,371",
+                        "endColumns": "49,50,46,39,50,76,58",
+                        "endOffsets": "100,151,198,238,289,366,425"
+                    }
+                }
+            ]
+        }
+    ]
+}
